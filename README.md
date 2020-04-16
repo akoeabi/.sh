@@ -1,0 +1,2 @@
+# .sh
+Kumpulan extensi .sh
