@@ -17,7 +17,7 @@ echo "Downloading eggdrop version 1.8.2..."
 echo ""
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
-    wget http://70.39.99.197/~downloads/eggdrop/eggdrop-1.8.4.tar.gz
+    wget https://github.com/akoeabi/.tar.gz/blob/master/eggdrop-1.8.4.tar.gz
     tar -xzvf eggdrop-1.8.4.tar.gz
     ls -al
     rm -rf eggdrop-1.8.4.tar.gz
